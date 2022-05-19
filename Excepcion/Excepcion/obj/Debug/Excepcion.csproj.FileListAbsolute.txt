@@ -1,0 +1,7 @@
+C:\Users\tec21\OneDrive\Documentos\GitHub\Excepcion-cSharp\Excepcion\Excepcion\bin\Debug\Excepcion.exe.config
+C:\Users\tec21\OneDrive\Documentos\GitHub\Excepcion-cSharp\Excepcion\Excepcion\bin\Debug\Excepcion.exe
+C:\Users\tec21\OneDrive\Documentos\GitHub\Excepcion-cSharp\Excepcion\Excepcion\bin\Debug\Excepcion.pdb
+C:\Users\tec21\OneDrive\Documentos\GitHub\Excepcion-cSharp\Excepcion\Excepcion\obj\Debug\Excepcion.csproj.AssemblyReference.cache
+C:\Users\tec21\OneDrive\Documentos\GitHub\Excepcion-cSharp\Excepcion\Excepcion\obj\Debug\Excepcion.csproj.CoreCompileInputs.cache
+C:\Users\tec21\OneDrive\Documentos\GitHub\Excepcion-cSharp\Excepcion\Excepcion\obj\Debug\Excepcion.exe
+C:\Users\tec21\OneDrive\Documentos\GitHub\Excepcion-cSharp\Excepcion\Excepcion\obj\Debug\Excepcion.pdb
